@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://downloads.realvnc.com/download/file/viewer.files/VNC-Viewer-7.13.1-Windows-64bit.exe#/vncviewer.exe",
+            "url": "https://github.com/clu6/scoop-hazel-repo/raw/refs/heads/main/VNC-Viewer-7.13.1-Windows-64bit.exe",
             "hash": "f677c36d366a74e6391227d494615b17a2942b111ce9bdb7543397357b14f482"
         },
         "32bit": {
